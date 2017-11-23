@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Feed App</string>
+    <string name="title_text">Title text goes here</string>
+    <string name="auth_name">Test Author</string>
+    <string name="date">Aug 22, 2016</string>
+    <string name="section">Test Section</string>
+    <string name="error_no_internet">No internet connection available</string>
+</resources>
